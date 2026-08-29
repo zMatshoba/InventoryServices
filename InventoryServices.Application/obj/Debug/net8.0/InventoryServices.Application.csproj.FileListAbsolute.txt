@@ -13,3 +13,4 @@ C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServ
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Application\obj\Debug\net8.0\refint\InventoryServices.Application.dll
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Application\obj\Debug\net8.0\InventoryServices.Application.pdb
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Application\obj\Debug\net8.0\ref\InventoryServices.Application.dll
+C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Application\obj\Debug\net8.0\InventoryServices.Application.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServ
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Infrastructure\obj\Debug\net8.0\InventoryServices.Infrastructure.pdb
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Infrastructure\obj\Debug\net8.0\InventoryServices.Infrastructure.genruntimeconfig.cache
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Infrastructure\obj\Debug\net8.0\ref\InventoryServices.Infrastructure.dll
+C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Infrastructure\obj\Debug\net8.0\InventoryServices.Infrastructure.sourcelink.json

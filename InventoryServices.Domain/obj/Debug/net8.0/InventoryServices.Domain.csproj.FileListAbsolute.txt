@@ -9,3 +9,4 @@ C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServ
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Domain\obj\Debug\net8.0\refint\InventoryServices.Domain.dll
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Domain\obj\Debug\net8.0\InventoryServices.Domain.pdb
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Domain\obj\Debug\net8.0\ref\InventoryServices.Domain.dll
+C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventoryServices.Domain\obj\Debug\net8.0\InventoryServices.Domain.sourcelink.json

@@ -22,6 +22,24 @@ namespace InventoryServices.Infrastructure.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("InventoryServices.Application.Dtos.ReportDto.DailySalesSqlResult", b =>
+                {
+                    b.Property<DateOnly>("Date")
+                        .HasColumnType("date");
+
+                    b.Property<int>("QtySold")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Sku")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("TotalSales")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.ToTable("DailySalesViews");
+                });
+
             modelBuilder.Entity("InventoryServices.Domain.Entities.InventoryAdjustment", b =>
                 {
                     b.Property<int>("Id")

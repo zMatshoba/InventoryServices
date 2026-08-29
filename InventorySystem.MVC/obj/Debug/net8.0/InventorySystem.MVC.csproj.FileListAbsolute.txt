@@ -32,3 +32,5 @@ C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventorySyst
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventorySystem.MVC\obj\Debug\net8.0\InventorySystem.MVC.genruntimeconfig.cache
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventorySystem.MVC\obj\Debug\net8.0\ref\InventorySystem.MVC.dll
 C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventorySystem.MVC\bin\Debug\net8.0\libman.json
+C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventorySystem.MVC\obj\Debug\net8.0\InventorySystem.MVC.sourcelink.json
+C:\Users\Zola.Matshoba\source\personal\zMatshoba\InventoryServices\InventorySystem.MVC\obj\Debug\net8.0\swae.build.ex.cache

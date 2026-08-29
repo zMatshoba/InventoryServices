@@ -1,52 +1,26 @@
-# Prerequisites
-*.d
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnLaunch.user
+*.lscache
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# .NET
+.dotnet/
+[Bb]in/
+[Oo]bj/
+project.assets.json
+project.nuget.cache
+*.cache
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Generated / local-only files
+logs/
+*.dgml
+src/Services/HollywoodConnectBO.Service.API/HollywoodConnectBO.Service.API.xml
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Tooling
+.sonarqube/
