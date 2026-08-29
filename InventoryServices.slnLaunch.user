@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "InventoryServices.Api\\InventoryServices.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "InventorySystem.MVC\\InventorySystem.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

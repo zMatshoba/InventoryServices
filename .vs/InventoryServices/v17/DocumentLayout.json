@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5364234-0377-4022-90C4-D38662286E57}|InventoryServices.Api\\InventoryServices.Api.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventoryservices.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5364234-0377-4022-90C4-D38662286E57}|InventoryServices.Api\\InventoryServices.Api.csproj|solutionrelative:inventoryservices.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5364234-0377-4022-90C4-D38662286E57}|InventoryServices.Api\\InventoryServices.Api.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventoryservices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5364234-0377-4022-90C4-D38662286E57}|InventoryServices.Api\\InventoryServices.Api.csproj|solutionrelative:inventoryservices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5364234-0377-4022-90C4-D38662286E57}|InventoryServices.Api\\InventoryServices.Api.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventoryservices.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5364234-0377-4022-90C4-D38662286E57}|InventoryServices.Api\\InventoryServices.Api.csproj|solutionrelative:inventoryservices.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933B8AC-D88C-4321-A38D-71F93840CF2B}|InventoryServices.Infrastructure\\InventoryServices.Infrastructure.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventoryservices.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933B8AC-D88C-4321-A38D-71F93840CF2B}|InventoryServices.Infrastructure\\InventoryServices.Infrastructure.csproj|solutionrelative:inventoryservices.infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6933B8AC-D88C-4321-A38D-71F93840CF2B}|InventoryServices.Infrastructure\\InventoryServices.Infrastructure.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventoryservices.infrastructure\\repository\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6933B8AC-D88C-4321-A38D-71F93840CF2B}|InventoryServices.Infrastructure\\InventoryServices.Infrastructure.csproj|solutionrelative:inventoryservices.infrastructure\\repository\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|c:\\users\\zola.matshoba\\source\\personal\\zmatshoba\\inventoryservices\\inventorysystem.mvc\\extentions\\programextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF46F05-286F-4FD7-BFA9-73B6083F0645}|InventorySystem.MVC\\InventorySystem.MVC.csproj|solutionrelative:inventorysystem.mvc\\extentions\\programextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryServices.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Api\\appsettings.json",
+              "RelativeToolTip": "InventoryServices.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T18:48:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InventorySystem.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv1QAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T18:11:25.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T18:03:06.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Api\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "InventoryServices.Api\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Api\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "InventoryServices.Api\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:54:03.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\ReportService.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:52:27.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InventoryServices.Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "InventoryServices.Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:39:00.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Infrastructure\\Repository\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "InventoryServices.Infrastructure\\Repository\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Infrastructure\\Repository\\ReportRepository.cs",
+              "RelativeToolTip": "InventoryServices.Infrastructure\\Repository\\ReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:38:52.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProgramExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Extentions\\ProgramExtentions.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Extentions\\ProgramExtentions.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Extentions\\ProgramExtentions.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Extentions\\ProgramExtentions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:14:42.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Services\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\DependencyInjection.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Services\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:12:36.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InventorySystem.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T17:11:41.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "InventorySystem.MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-29T17:11:00.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\IProductService.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:07:15.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Program.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:02:27.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Services\\ProductService.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:44:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InventorySystem.MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventorySystem.MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InventorySystem.MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:43:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InventoryServices.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Zola.Matshoba\\source\\personal\\zMatshoba\\InventoryServices\\InventoryServices.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InventoryServices.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T16:39:59.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
